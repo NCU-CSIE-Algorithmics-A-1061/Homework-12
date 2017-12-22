@@ -1,5 +1,17 @@
 # Homework 12
 
+## Groups
+
+- 第一組
+- 第四組
+- 第五組
+- 第六組
+- 第七組
+- 第十四組
+- 第十八組
+
+## Problems
+
 1. Exercises 26.1-7<br>
 Suppose that, in addition to edge capacities, a flow network has vertex capacities. That is each vertex v has a limit l(v) on how much flow can pass through v. Show how to transform a flow network G = (V, E) with vertex capacities into an equivalent flow network G'= (V', E') without vertex capacities, such that a maximum flow in G' has the same value as a maximum flow in G. How many vertices and edges does G' have?
 
